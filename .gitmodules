@@ -1,0 +1,3 @@
+[submodule "pikapika"]
+	path = pikapika
+	url = https://github.com/MysticDoll/kusoDevBattle-pikapika-mode.git
