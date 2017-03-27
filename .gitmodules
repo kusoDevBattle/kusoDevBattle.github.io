@@ -1,3 +1,6 @@
 [submodule "pikapika"]
 	path = pikapika
 	url = https://github.com/MysticDoll/kusoDevBattle-pikapika-mode.git
+[submodule "works-renderer"]
+	path = works-renderer
+	url = https://github.com/MysticDoll/kusoDevBattle-works-renderer.git
